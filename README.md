@@ -12,4 +12,4 @@ This repository showcases two product management case studies that explore user-
 ### 2. Driving Growth via the School Route for MeaVana
 - **Focus**: Scaling MeaVana’s student user base using a 3-pillar framework (Target → Convert → Retain).
 - **Methods**: Market segmentation, gamification, ambassador programs.
-- 📄 [Read the PDF](docs/case-study-meavana-student-growth.pdf)
+- 📄 [Read the PDF](https://github.com/Rohith070820/Product_Management_Case_Study/blob/main/case-study-google-slides-video-narration.pdf)
