@@ -13,7 +13,3 @@ This repository showcases two product management case studies that explore user-
 - **Focus**: Scaling MeaVana’s student user base using a 3-pillar framework (Target → Convert → Retain).
 - **Methods**: Market segmentation, gamification, ambassador programs.
 - 📄 [Read the PDF](docs/case-study-meavana-student-growth.pdf)
-
-## License
-
-This work is licensed under [Creative Commons Attribution 4.0 International](LICENSE).
